@@ -20,3 +20,14 @@ nav li{
     text-align: center;
 }
 /* fin css header */
+h1{
+    position: absolute;
+    margin-left: 40%;
+    display: flex;
+    color: white;
+    padding: 300px;
+}
+.banniére{
+    background-color: rgb(44, 39, 39);
+    opacity: 1;
+}
